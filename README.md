@@ -1,7 +1,7 @@
 ## Complete Cryptography Guide
 # 🔐 Cryptography Guide 🛡️
 
-![Cryptography Banner](https://giphy.com/embed/bkWx4faTOhww8)
+![Cryptography Banner](https://github.com/MumukshTayal/Cryptography-Guide/blob/main/cryptography.gif)
 
 Welcome to the Cryptography Guide repository! This collection of Python scripts demonstrates various cryptographic algorithms, from classical ciphers to modern encryption techniques.
 
